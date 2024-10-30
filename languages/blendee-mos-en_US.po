@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: blendee-mos\n"
+"POT-Creation-Date: 2024-04-08 11:14+0200\n"
+"PO-Revision-Date: 2024-04-08 11:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/views/abstract-class-blendee-mos-view.php:21
+msgid "connect_to_blendee_mos"
+msgstr "Connection with Blendee M.O.S."
+
+#: admin/views/abstract-class-blendee-mos-view.php:25
+#: admin/views/abstract-class-blendee-mos-view.php:48
+#: admin/views/abstract-class-blendee-mos-view.php:75
+msgid "active"
+msgstr "Active"
+
+#: admin/views/abstract-class-blendee-mos-view.php:43
+msgid "permissions_wordpress"
+msgstr "WordPress permissions"
+
+#: admin/views/abstract-class-blendee-mos-view.php:49
+#: admin/views/abstract-class-blendee-mos-view.php:76
+msgid "deactivated"
+msgstr "Deactivated"
+
+#: admin/views/abstract-class-blendee-mos-view.php:57
+msgid "permissions_wordpress_instruction"
+msgstr "Click to authorize Blendee to access your WordPress site data"
+
+#: admin/views/abstract-class-blendee-mos-view.php:70
+msgid "permissions_woocommerce"
+msgstr "WooCommerce permissions"
+
+#: admin/views/abstract-class-blendee-mos-view.php:84
+msgid "permissions_woocommerce_instruction"
+msgstr "Allow Blendee to access your WooCommerce shop for an integrated and optimized experience"
+
+#: admin/views/abstract-class-blendee-mos-view.php:96
+msgid "inadequate_permalink"
+msgstr "ATTENTION: inadequate permalink."
+
+#: admin/views/abstract-class-blendee-mos-view.php:99
+msgid "change_permalink_instruction"
+msgstr ""
+"Change your Permalink from the appropriate menu to allow Blendee to access your site.\n"
+"The Permalink must not be set to default."
+
+#: admin/views/abstract-class-blendee-mos-view.php:102
+msgid "change_permalink"
+msgstr "Change permalink"
+
+#: admin/views/class-blendee-mos-allow-permissions.php:8
+#: admin/views/class-blendee-mos-blendee-settings.php:7
+msgid "blendee_settings"
+msgstr "Blendee Settings"
+
+#: admin/views/class-blendee-mos-allow-permissions.php:18
+msgid "allow_api_instruction"
+msgstr "At least one authorization is required to proceed with the installation."
+
+#: admin/views/class-blendee-mos-blendee-settings.php:29
+msgid "enable_tracking"
+msgstr "Enable tracking"
+
+#: admin/views/class-blendee-mos-blendee-settings.php:37
+msgid "synchronization"
+msgstr "Synchronization"
+
+#: admin/views/class-blendee-mos-blendee-settings.php:40
+msgid "enable_import_precesses"
+msgstr "Enable import process"
+
+#: admin/views/class-blendee-mos-blendee-settings.php:48
+msgid "sync_prods"
+msgstr "Products"
+
+#: admin/views/class-blendee-mos-blendee-settings.php:49
+#: admin/views/class-blendee-mos-blendee-settings.php:57
+#: admin/views/class-blendee-mos-blendee-settings.php:66
+#: admin/views/class-blendee-mos-blendee-settings.php:74
+#: admin/views/class-blendee-mos-blendee-settings.php:82
+msgid "last_sync"
+msgstr "Last sync"
+
+#: admin/views/class-blendee-mos-blendee-settings.php:56
+msgid "sync_orders"
+msgstr "Orders"
+
+#: admin/views/class-blendee-mos-blendee-settings.php:65
+msgid "sync_contents"
+msgstr "Contents"
+
+#: admin/views/class-blendee-mos-blendee-settings.php:73
+msgid "sync_categories"
+msgstr "Categories"
+
+#: admin/views/class-blendee-mos-blendee-settings.php:81
+msgid "sync_users"
+msgstr "Users"
+
+#: admin/views/class-blendee-mos-blendee-settings.php:89
+msgid "save_changes_button"
+msgstr "Save Changes"
+
+#: admin/views/class-blendee-mos-connect-blendee.php:17
+msgid "connect_account_with_blendee"
+msgstr "Connect your account with Blendee"
+
+#: admin/views/class-blendee-mos-connect-blendee.php:20
+msgid "description_connection_to_blendee"
+msgstr ""
+"Activate WordPress from the AppCenter menu of your Blendee M.O.S. platform. \n"
+"By entering the URL of your site WITHOUT “https://“,    then come back here and refresh the page to apply the changes.\n"
+"\n"
+"Click the name below to copy it to the clipboard, then connect to the platform."
+
+#: admin/views/class-blendee-mos-connect-blendee.php:27
+msgid "instruction_1"
+msgstr "Copy your shop link"
+
+#: admin/views/class-blendee-mos-connect-blendee.php:35
+msgid "copy"
+msgstr "Copy"
+
+#: admin/views/class-blendee-mos-connect-blendee.php:43
+msgid "instruction_2"
+msgstr "Enter your shop link in the Blendee App Center"
+
+#: admin/views/class-blendee-mos-connect-blendee.php:48
+msgid "connect_to_platform"
+msgstr "Connect to platform"
+
+#: admin/views/class-blendee-mos-connect-blendee.php:56
+msgid "instruction_3"
+msgstr "After entering the link, return here and reload the page to complete the integration"
+
+#: admin/views/class-blendee-mos-connect-blendee.php:61
+msgid "reload_page"
+msgstr "Refresh"
+
+#~ msgid "approve"
+#~ msgstr "Approve"
+
+#~ msgid "generate_key_manually_instruction"
+#~ msgstr "Generate your API key from the advanced settings of the WooCommerce panel, then enter it here"
+
+#~ msgid "activation_api_rest_key"
+#~ msgstr "Activation API REST key"
+
+#~ msgid "generate_keys"
+#~ msgstr "Generate Keyes"
+
+#~ msgid "customer_key"
+#~ msgstr "Customer Key"
+
+#~ msgid "paste"
+#~ msgstr "Paste"
+
+#~ msgid "customer_secret"
+#~ msgstr "Customer Secret"
+
+#~ msgid "active_button"
+#~ msgstr "Activate"
+
+#~ msgid "apply"
+#~ msgstr "Apply"
+
+#~ msgid "reconnect"
+#~ msgstr "Reconnect"
+
+#~ msgid "allow_blendee_access_to_shop"
+#~ msgstr "Allow access to Blendee M.O.S. to your shop"
+
+#~ msgid "done_allow_blendee_to_shop"
+#~ msgstr "You have consented to Blendee M.O.S. to be able to access your shop"
+
+#~ msgid "disconnect"
+#~ msgstr "Disconnect"
+
+#~ msgid "authorize_blendee"
+#~ msgstr "Authorize Blendee to read your data to unlock features"

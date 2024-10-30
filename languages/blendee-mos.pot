@@ -1,0 +1,140 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: blendee-mos\n"
+"POT-Creation-Date: 2024-04-08 10:36+0200\n"
+"PO-Revision-Date: 2024-02-07 16:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/views/abstract-class-blendee-mos-view.php:21
+msgid "connect_to_blendee_mos"
+msgstr ""
+
+#: admin/views/abstract-class-blendee-mos-view.php:25
+#: admin/views/abstract-class-blendee-mos-view.php:48
+#: admin/views/abstract-class-blendee-mos-view.php:75
+msgid "active"
+msgstr ""
+
+#: admin/views/abstract-class-blendee-mos-view.php:43
+msgid "permissions_wordpress"
+msgstr ""
+
+#: admin/views/abstract-class-blendee-mos-view.php:49
+#: admin/views/abstract-class-blendee-mos-view.php:76
+msgid "deactivated"
+msgstr ""
+
+#: admin/views/abstract-class-blendee-mos-view.php:57
+msgid "permissions_wordpress_instruction"
+msgstr ""
+
+#: admin/views/abstract-class-blendee-mos-view.php:70
+msgid "permissions_woocommerce"
+msgstr ""
+
+#: admin/views/abstract-class-blendee-mos-view.php:84
+msgid "permissions_woocommerce_instruction"
+msgstr ""
+
+#: admin/views/abstract-class-blendee-mos-view.php:96
+msgid "inadequate_permalink"
+msgstr ""
+
+#: admin/views/abstract-class-blendee-mos-view.php:99
+msgid "change_permalink_instruction"
+msgstr ""
+
+#: admin/views/abstract-class-blendee-mos-view.php:102
+msgid "change_permalink"
+msgstr ""
+
+#: admin/views/class-blendee-mos-allow-permissions.php:8
+#: admin/views/class-blendee-mos-blendee-settings.php:7
+msgid "blendee_settings"
+msgstr ""
+
+#: admin/views/class-blendee-mos-allow-permissions.php:18
+msgid "allow_api_instruction"
+msgstr ""
+
+#: admin/views/class-blendee-mos-blendee-settings.php:30
+msgid "enable_tracking"
+msgstr ""
+
+#: admin/views/class-blendee-mos-blendee-settings.php:38
+msgid "synchronization"
+msgstr ""
+
+#: admin/views/class-blendee-mos-blendee-settings.php:41
+msgid "enable_import_precesses"
+msgstr ""
+
+#: admin/views/class-blendee-mos-blendee-settings.php:49
+msgid "sync_prods"
+msgstr ""
+
+#: admin/views/class-blendee-mos-blendee-settings.php:54
+msgid "last_sync"
+msgstr ""
+
+#: admin/views/class-blendee-mos-blendee-settings.php:59
+msgid "sync_orders"
+msgstr ""
+
+#: admin/views/class-blendee-mos-blendee-settings.php:68
+msgid "sync_contents"
+msgstr ""
+
+#: admin/views/class-blendee-mos-blendee-settings.php:76
+msgid "sync_categories"
+msgstr ""
+
+#: admin/views/class-blendee-mos-blendee-settings.php:84
+msgid "sync_users"
+msgstr ""
+
+#: admin/views/class-blendee-mos-blendee-settings.php:92
+msgid "save_changes_button"
+msgstr ""
+
+#: admin/views/class-blendee-mos-connect-blendee.php:17
+msgid "connect_account_with_blendee"
+msgstr ""
+
+#: admin/views/class-blendee-mos-connect-blendee.php:20
+msgid "description_connection_to_blendee"
+msgstr ""
+
+#: admin/views/class-blendee-mos-connect-blendee.php:27
+msgid "instruction_1"
+msgstr ""
+
+#: admin/views/class-blendee-mos-connect-blendee.php:35
+msgid "copy"
+msgstr ""
+
+#: admin/views/class-blendee-mos-connect-blendee.php:43
+msgid "instruction_2"
+msgstr ""
+
+#: admin/views/class-blendee-mos-connect-blendee.php:48
+msgid "connect_to_platform"
+msgstr ""
+
+#: admin/views/class-blendee-mos-connect-blendee.php:56
+msgid "instruction_3"
+msgstr ""
+
+#: admin/views/class-blendee-mos-connect-blendee.php:61
+msgid "reload_page"
+msgstr ""
